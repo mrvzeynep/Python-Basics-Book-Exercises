@@ -1,6 +1,6 @@
 # print() is a function
 # a function is a bit of code that typically takes some input, called argument
-#does something with that input, and produces some ouput, a called return value
+#does something with that input, and produces some ouput, a called return value.
 
 #errors
 #there are two main types of errors you will experience

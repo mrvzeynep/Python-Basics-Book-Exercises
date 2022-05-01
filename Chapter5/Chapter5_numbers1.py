@@ -61,17 +61,3 @@ int(5.0 / 2)
 
 #the modulus operator 
 5 % 3
-
-
-
-
-
-
-
-
-
-
-
-
-
-
